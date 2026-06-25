@@ -19,4 +19,5 @@ https://takoorvikassingh-lgtm.github.io/TRAVEL-TOURISM-WEBSITE/
 Takoor Vikassingh
 ## contact
 EMAIL:-takoorvikassingh@gmail.com
-Github:https://github.com/takoorvikassingh-lgtm
+Github:
+https://github.com/takoorvikassingh-lgtm
